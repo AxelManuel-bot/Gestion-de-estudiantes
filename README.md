@@ -28,7 +28,3 @@ dotnet run
 4. Agrega `120` como calificacion y comprueba que el programa la rechace y vuelva a pedir un valor.
 5. Consulta un estudiante antes de agregarle calificaciones.
 6. Escribe una opcion que no aparezca en el menu.
-
-## Capturas para la entrega
-
-Toma una captura del menu principal y otra despues de registrar estudiantes y consultar sus promedios. Puedes usar `Windows + Shift + S` para guardar cada captura.
